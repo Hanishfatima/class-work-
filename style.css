@@ -9,3 +9,7 @@
 .hero-sec{
     background: #1090CB1A;
 }
+
+.button:hover{
+ color: blue !important;
+}
